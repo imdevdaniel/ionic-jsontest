@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "Denver",
+            "age": 19
+        },
+        {
+            "name": "Louis",
+            "age": 23
+        }
+    ],
+    "logs": [
+        {
+            "access_time": "20:21",
+            "user": "Martin"
+        },
+        {
+            "access_time": "19:21",
+            "user": "Charles"
+        }
+    ]
+}
